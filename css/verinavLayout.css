@@ -1,0 +1,79 @@
+.categories
+{
+   background-color: rgb(240, 130, 36);
+   background-color: white;
+}
+
+.categories h2
+{
+   margin-top:0px;
+   color: white;  
+   color:red;
+   font-weight: bold;
+   font-style:italic;
+   font-family: Arial;
+   border: 1px solid blue;
+    }
+
+.vertiNav
+{
+   float: left;
+   list-style-type: none;
+   background-color: rgb(230,230,230);
+   width: 130px;
+}
+
+.vertiNav ul
+{
+   list-style-type: none;
+}
+
+.vertiNav  a
+{
+   text-decoration: none;
+}
+
+.vertiNav .button
+{
+   float: right;
+}
+
+.vertiNav .button:hover
+{
+   background-color: blue;
+}
+.vertiNav ul li
+{
+   padding-left: 10px;
+   
+}
+.vertiNav ul li a
+{
+     font-family: Helvetica;
+   font-size: 18px;
+}
+
+.vertiNav ul li ul
+{
+   display: none;
+   background-color: rgb(190, 190, 190);
+   padding-left: 0px;
+   margin-left: -10px
+   }
+
+
+.vertiNav ul li:hover
+{
+   background-color: rgb( 0,85, 255);
+   color: white;
+   }
+   
+.vertiNav ul li:hover a
+{
+   color: white;
+}   
+.vertiNav ul li ul li
+{
+   padding-left: -50px;
+   margin-left: 0px;
+}

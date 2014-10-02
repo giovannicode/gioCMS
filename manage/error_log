@@ -1,0 +1,6 @@
+[21-Aug-2012 14:04:10] PHP Fatal error:  Cannot redeclare class LabelTextbox in /home/garroyo0/public_html/gioCMS/LabelTextbox.php on line 4
+[21-Aug-2012 16:23:04] PHP Fatal error:  Call to undefined function  dbs_hnplink() in /home/garroyo0/public_html/manage/index.php on line 17
+[05-Sep-2012 10:23:21] PHP Fatal error:  Call to undefined function  dbs_vnplink() in /home/garroyo0/public_html/manage/addVerti.php on line 18
+[05-Sep-2012 10:24:06] PHP Fatal error:  Call to undefined function  dbs_vnplink() in /home/garroyo0/public_html/manage/addVerti.php on line 18
+[07-Sep-2012 11:27:48] PHP Fatal error:  Call to a member function ec() on a non-object in /home/garroyo0/public_html/views/header.html on line 39
+[07-Sep-2012 11:28:16] PHP Fatal error:  Call to a member function ec() on a non-object in /home/garroyo0/public_html/views/header.html on line 39

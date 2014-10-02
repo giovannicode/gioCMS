@@ -1,0 +1,5 @@
+[21-Sep-2012 13:58:43] PHP Fatal error:  Class 'FormCreator' not found in /home/garroyo0/public_html/gioCMS/manage/newPage/index.php on line 11
+[22-Sep-2012 17:44:38] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/garroyo0/public_html/gioCMS/manage/pages/index.php on line 11
+[22-Sep-2012 18:36:45] PHP Fatal error:  Class 'PagableDir' not found in /home/garroyo0/public_html/gioCMS/manage/pages/newPgDir.php on line 16
+[22-Sep-2012 18:38:18] PHP Fatal error:  Non-abstract method PagableDir::__construct() must contain body in /home/garroyo0/public_html/gioCMS/lib/pages/PagableDir.php on line 9
+[30-Sep-2012 18:09:49] PHP Parse error:  syntax error, unexpected ')' in /home/garroyo0/public_html/gioCMS/manage/pages/newPage.php on line 13

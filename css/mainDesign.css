@@ -1,0 +1,22 @@
+*{
+}
+	
+body{
+ background-color: rgb(10,7,60);
+ background-image:url('images/independence.jpg');
+ }
+ 
+ .mainContainer{
+ background-color: white;
+ }
+ 
+ .header{
+ background-image:url('images/independence.jpg');
+ }
+ 
+ .horiNav{
+ }
+ 
+ .footer{
+ background-color: gray;
+ }

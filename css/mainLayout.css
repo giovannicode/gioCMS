@@ -1,0 +1,40 @@
+*{
+   marging: 0px;
+   padding: 0px;
+}
+
+body {
+}
+
+.mainContainer {
+    width: 975px;
+    height: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	}
+	
+.header{
+	float: left;
+	width: 975px;
+	height: 300px;
+	background-color: black;
+}
+
+.mainContent{
+	float: left;
+	width: 975px;
+	height: 600px;
+}
+
+.footer {
+	float: left;
+    margin-left: auto;
+    margin-right: auto;
+    width: 975px;
+    height: 300px;
+}
+
+.footer ul{
+float: left;
+margin: 20px;
+}
